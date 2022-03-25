@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+    margin:0;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background:#0D192C;
+    flex-direction: column;
+}
+
+.card {
+    background:#15263F;
+    height:600px;
+    width:350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.imagem {
+    width:302px;
+    height:302px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.title {
+    font-size: 22px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    color:#FFF;
+    align-self: flex-start;
+    margin-left: 23px;
+}
+
+.description {
+    font-size:18px;
+    font-weight: 400;
+    font-family: 'Outfit', sans-serif;
+    color:#8BACD9;
+    align-self:flex-start;
+    margin-left:23px;
+}
+
+.bloco-final {
+    display: flex;
+    width:100%;
+    justify-content: space-between;
+}
+
+.eth-img {
+    margin-right:5px;
+}
+
+.eth-numb {
+    margin-left: 20px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    color:#00FFF8;
+}
+
+.icon-clock {
+    margin-right:5px;
+}
+
+.days-left {
+    margin-right:30px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color:#8BACD9;
+}
+
+.creation-by {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:20px;
+}
+
+.avatar {
+    width:33px;
+    height:33px;
+    box-sizing: border-box;
+}
+
+p {
+    margin-left:10px;
+    font-size:16px;
+    color:#8BACD9;
+    font-weight: 400;
+}
+
+.jules {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color:#FFF;
+    font-size:16px;
+}
+
+.attribution {
+    margin-top:15px;
+    color:rgb(133, 205, 214);
+}
+
+a {
+    text-decoration: none;
+}
