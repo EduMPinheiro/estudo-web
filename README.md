@@ -1,2 +1,2 @@
 # estudo-web
-Repository where my HTML/CSS projects are stored 🍜
+Repositório de estudos de desenvolvimento web. Aqui contém todas minhas páginas feitas usando HTML/CSS e logo mais Javascript.
