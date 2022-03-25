@@ -1,2 +1,2 @@
 # estudo-web
-Repository where my study projects are stored 🍜
+Repository where my HTML/CSS projects are stored 🍜
